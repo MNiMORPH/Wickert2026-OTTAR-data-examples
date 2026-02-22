@@ -8,7 +8,7 @@ Example [OTTAR](https://github.com/MNiMORPH/OTTAR) model outputs from:
 
 These folders include the best-fitting model results, simulated with the help of [DAKOTA](https://dakota.sandia.gov/), alongside configuration files to reproduce these best-fitting results and test parameter sensitivity.
 
-The spreadsheet contains source data alongside computed mean and standard-deviation channel widths for the Minnesota River, the Cannon River, and Diamond Fork. Mean and standard deviation widths for the Green River are from Walker et al. (2020). Data for Diamond Fork are from Jones (2018) and measurements made by A. Wickert in Google Earth along the same river cross sections.
+The spreadsheet contains source data alongside computed mean and standard-deviation channel widths for the Minnesota River, the Cannon River, and Diamond Fork. Mean and standard deviation widths for the Green River are from Walker et al. (2020). Data for Diamond Fork are from Jones (2018) and later measurements by J. Jones for this work.
 
 ## Licenses
 
