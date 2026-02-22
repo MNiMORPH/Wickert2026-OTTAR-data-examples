@@ -1,4 +1,4 @@
-# Wickert2025-OTTAR-data-examples
+# Wickert2026-OTTAR-data-examples
 
 Example [OTTAR](https://github.com/MNiMORPH/OTTAR) model outputs from:
 * The Minnesota River
