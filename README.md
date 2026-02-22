@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18736181.svg)](https://doi.org/10.5281/zenodo.18736181)
+
 # Wickert2026-OTTAR-data-examples
 
 Example [OTTAR](https://github.com/MNiMORPH/OTTAR) model outputs from:
